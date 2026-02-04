@@ -1,4 +1,4 @@
-This is a small glimpse of a project I built during my internship. It’s a little similar to—but not the same as—my original implementation.
+This is a small glimpse of a project I built. It’s a little similar to but not the same as my original implementation.
 # Face Recognition → MongoDB Pipeline
 
 Lightweight helper script that extracts face embeddings from an image using the `face_recognition` library and stores those vectors inside a MongoDB collection.
